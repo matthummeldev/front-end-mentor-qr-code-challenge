@@ -1,3 +1,3 @@
 # Front End Mentor QR CodeChallenge
 
-Created from scratch using css and html.
+Created from scratch using CSS and HTML.
